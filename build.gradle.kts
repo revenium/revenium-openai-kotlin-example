@@ -13,7 +13,7 @@ repositories {
 
 dependencies {
     implementation("com.openai:openai-java:4.30.0")
-    implementation("io.revenium.metering:revenium-middleware-openai-java:0.1.4-SNAPSHOT")
+    implementation("io.revenium.metering:revenium-middleware-openai-java:0.1.6")
     implementation("org.slf4j:slf4j-simple:2.0.16")
 }
 
