@@ -1,5 +1,21 @@
 # Revenium AI Metering - Kotlin Examples
 
+![Revenium Labs](https://img.shields.io/badge/Revenium-Labs-6f42c1?style=for-the-badge)
+![Status: Beta](https://img.shields.io/badge/status-beta%20(best--effort)-f0a020?style=for-the-badge)
+
+> ### 🧪 This is a Revenium Labs project
+> **Revenium Labs** projects are field-developed, best-effort solutions — working,
+> beta-quality software we've built to solve real customer problems and shared in the
+> open. They are **not** part of Revenium's officially supported, productized offerings.
+>
+> - It works and solves a real problem, but may need adaptation to fit your exact environment.
+> - It's provided as-is — without the versioned-release guarantees, SLAs, or formal support
+>   that back our core products.
+> - We want your issues, feedback, and PRs — and **we're happy to work with you** to make it
+>   fit your use case. [Come talk to us on Discord](https://discord.gg/J2DbmjZ2nA).
+>
+> → **[What is Revenium Labs?](https://github.com/revenium/.github/blob/main/LABS.md)**
+
 Sample Kotlin applications demonstrating how to integrate [Revenium](https://revenium.io) AI metering with the [OpenAI Java SDK](https://github.com/openai/openai-java). Revenium's middleware transparently captures token usage, costs, timing, and business metadata from your AI API calls -- with zero changes to your application logic.
 
 ## Prerequisites
